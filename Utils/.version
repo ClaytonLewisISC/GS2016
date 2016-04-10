@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.intersys.eclipse.sync.library:AtelierProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.intersys.eclipse.sync.library="http:///com/intersys/eclipse/sync/library/model/sync.ecore" name="Utils">
+  <resourceList name="ProcessInfo.cls" localFilePath="file:/C:/Users/clewis/InterSystems/Atelier/workspace/Utils/Demo2/ProcessInfo.cls">
+    <version serverTimestamp="2016-04-10 13:28:46.022" lastUpdateTimestamp="1460309460086" serverDocName="Demo2.ProcessInfo.cls"/>
+  </resourceList>
+  <resourceList name="Logger.cls" localFilePath="file:/C:/Users/clewis/InterSystems/Atelier/workspace/Utils/Demo2/Logger.cls">
+    <version serverTimestamp="2016-04-10 13:27:52.173" lastUpdateTimestamp="1460309272176" serverDocName="Demo2.Logger.cls"/>
+  </resourceList>
+  <resourceList name="Logger.cls" localFilePath="file:/C:/Users/clewis/git/GS2016/Utils/Demo2/Logger.cls">
+    <version serverTimestamp="2016-04-10 13:27:52.173" lastUpdateTimestamp="1460309596473"/>
+  </resourceList>
+  <resourceList name="ProcessInfo.cls" localFilePath="file:/C:/Users/clewis/git/GS2016/Utils/Demo2/ProcessInfo.cls">
+    <version serverTimestamp="2016-04-10 13:28:46.022" lastUpdateTimestamp="1460309604835"/>
+  </resourceList>
+</com.intersys.eclipse.sync.library:AtelierProject>
